@@ -1,4 +1,4 @@
-***Resume Analyzer***
+**Resume Analyzer**
 
 **Overview**
 
@@ -26,3 +26,15 @@ For Job Seekers: Upload your resume to the analyzer to receive feedback on areas
 **Contributing**
 
 Contributions to the Resume Analyzer project are welcome! Whether you want to add new features, fix bugs, or improve documentation, please feel free to submit pull requests.
+
+
+
+**Images**
+
+![home](https://github.com/koushikxy/Resume-Analyzer/assets/120478621/072ca663-a165-4d3e-a2c6-72e507c20080)
+
+![after upload resume](https://github.com/koushikxy/Resume-Analyzer/assets/120478621/51f4f856-b3e6-4a0d-8abe-bc5e35f758be)
+
+![info](https://github.com/koushikxy/Resume-Analyzer/assets/120478621/7be2b0db-57ec-4f49-b637-bf7772ae0956)
+
+![info 2](https://github.com/koushikxy/Resume-Analyzer/assets/120478621/672b8b02-4a84-48fc-a7f2-2e15c143ecc8)
