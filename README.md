@@ -1,4 +1,4 @@
-#Resume Analyzer
+<b>Resume Analyzer<b>
 
 Overview
 The Resume Analyzer project is a Python-based tool that harnesses the power of Natural Language Processing (NLP) to automate the analysis of resumes. Whether you're a recruiter inundated with stacks of resumes or a job seeker looking to optimize your application, this tool provides invaluable assistance by parsing resumes and extracting crucial information such as skills, experience, and education.
